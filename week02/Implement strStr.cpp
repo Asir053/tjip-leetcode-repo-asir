@@ -1,3 +1,4 @@
+//O(n),O(1)
 class Solution {
 public:
     vector<long long> prefixHashHaystack, po;

@@ -1,3 +1,4 @@
+#O(t+log(s)),O(s)
 class Solution(object):
     def numMatchingSubseq(self, s, words):
         """

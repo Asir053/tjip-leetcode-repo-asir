@@ -1,3 +1,4 @@
+#O(n),O(1)
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """

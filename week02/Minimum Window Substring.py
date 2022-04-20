@@ -1,3 +1,4 @@
+#O(t*log(s)),O(t)
 class Solution(object):
     def minWindow(self, s, t):
         """
